@@ -2,7 +2,7 @@
 
 [PR1](https://github.com/Mohammadnim123/drf_api_deploy/pull/1)
 
-[PR3](https://github.com/Mohammadnim123/drf_api_deploy/pull/3)
+
 
 [Live server](https://movies-api-nemrawi.herokuapp.com/api/v1/movies/)
 
