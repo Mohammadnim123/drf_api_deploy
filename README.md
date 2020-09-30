@@ -1,5 +1,23 @@
 [Repo](https://github.com/Mohammadnim123/drf_api_deploy)
+
 [PR1](https://github.com/Mohammadnim123/drf_api_deploy/pull/1)
+
+[PR3](https://github.com/Mohammadnim123/drf_api_deploy/pull/3)
+
+[Live server](https://movies-api-nemrawi.herokuapp.com/api/v1/movies/)
+
+**.env**
+
+```
+DEBUG=off
+SECRET_KEY=6af((y!u)*m5_3f*ly58g(r6=h)-)%vpe=e&u5=7)wo)@%dvhl
+DATABASE_NAME=postgres
+DATABASE_USER=postgres
+DATABASE_PASSWORD=postgres
+DATABASE_HOST=db
+DATABASE_PORT=5432
+ALLOWED_HOSTS=0.0.0.0,localhost,127.0.0.1,.movies-api-nemrawi.com,movies-api-nemrawi.herokuapp.com
+```
 
 # Overview
 
